@@ -13,6 +13,7 @@ public class Principal {
 		Evento.ordenarAtletasPorPonto();
 		Evento.ordenaPorNomes();
 		//egit
+		//fred
 	}
 
 }
