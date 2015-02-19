@@ -12,6 +12,7 @@ public class Principal {
 		Evento.exibirVencedor();
 		Evento.ordenarAtletasPorPonto();
 		Evento.ordenaPorNomes();
+		//egit
 	}
 
 }
